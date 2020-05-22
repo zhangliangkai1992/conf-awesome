@@ -18,7 +18,7 @@ run xscreensaver
 run cbatticon
 #run ktorrent
 #run electronic-wechat
-#run emacs --daemon
+run emacs --fg-daemon
 #run sshfs -o reconnect mini-pc:zlk-disks/WD-2T /home/zlk/remote-disk
 #run batterymon
 #run gradle
