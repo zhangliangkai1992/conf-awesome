@@ -7,7 +7,7 @@ function run {
 }
 
 run xmodmap ~/.Xmodmap
-run netease-cloud-music
+#run netease-cloud-music
 run fcitx
 run conky
 run xcompmgr -c -t-5 -l-5 -r4.2 -o.55 
